@@ -7,7 +7,13 @@ Triển khai Drupal trên nền tảng hệ điều hành mã nguồn mở
  Nguyễn Hoàng Duy Thiện
 * **Thời gian thực hiện:**
  06/11/2023 - 31/12/2023
- 
+  
+ * **Nội dung công việc từ 06/11-12/11/2023:**
+   
+    1.Tìm hiểu một số phần mềm ảo hóa:VirtualBox, VMware, Hyper-V, Citrix XenServer, … và chọn phần mềm thích
+hợp để cài đặt
+
+    2.Tìm hiểu các phiên bản Linux Server, chọn phiên bản hệ điều hành phù hợp vàtiến hành cài đặt
 <!---
 csn-da21ttc-ngothanhquyen-cmsdrupal/csn-da21ttc-ngothanhquyen-cmsdrupal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
