@@ -2,7 +2,7 @@
 * **Đề tài CSN:**
 Triển khai Drupal trên nền tảng hệ điều hành mã nguồn mở
 * **Sinh viên thực hiện:**
- Ngô Thanh Quyền - 110121223
+ Ngô Thanh Quyền - 110121223 - DA21TTC - SDT: 0377796947 - 110121223@st.tvu.edu.vn
 * **Giáo viên hướng dẫn:**
  Nguyễn Hoàng Duy Thiện
 * **Thời gian thực hiện:**
