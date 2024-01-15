@@ -23,6 +23,11 @@ hợp để cài đặt.
 * **Nội dung công việc từ 04/12-10/12/2023:**
 
   Tập hợp các kiến thức đã tìm kiếm được và tiến hành sử dụng Drupal để tùy biến các chức năng, tùy chỉnh giao diện cho Website dựa trên Website đã có thuộc Trường ĐH Trà Vinh
+  * **Nội dung công việc từ 18/12-10/12/2023:**
+    Tiếp tục sử dụng Drupal để tùy biến các chức năng, tùy chỉnh giao diện cho Website dựa trên Website đã có thuộc Trường ĐH Trà Vinh
+    * **Nội dung công việc từ 25/12-31/12/2023:**
+      1. Báo cáo viết theo mẫu quy định
+2. Báo cáo thuyết trình PowerPoint theo mẫu quy định
 <!---
 csn-da21ttc-ngothanhquyen-cmsdrupal/csn-da21ttc-ngothanhquyen-cmsdrupal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
